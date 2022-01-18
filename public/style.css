@@ -10,7 +10,7 @@
     --hue-color: 224;
     --first-color: #08BDBA;
     --second-color: hsl(var(--hue-color), 56%, 12%);
-    /*===== Fuente y tipografia =====*/
+    /*===== Font =====*/
     --body-font: 'Poppins', sans-serif;
     --big-font-size: 1.7rem;
     --h2-font-size: 1.25rem;

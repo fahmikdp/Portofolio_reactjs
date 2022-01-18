@@ -14,23 +14,23 @@ export default function Nav() {
         <div class="nav__menu" id="nav-menu">
             <ul class="nav__list">
 
-            <Link to="/">
+            <Link to="/Portfolio_reactjs/">
                 <li class="nav__item"><a href="#home" class="nav__link active">Home</a></li>
             </Link>
 
-            <Link to="/about">
+            <Link to="/Portfolio_reactjs/about">
                 <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
             </Link>
 
-            <Link to="/skill">
+            <Link to="/Portfolio_reactjs/skill">
                 <li class="nav__item"><a href="#skills" class="nav__link">Skills</a></li>
             </Link>
 
-            <Link to="/work">
+            <Link to="/Portfolio_reactjs/work">
                 <li class="nav__item"><a href="#work" class="nav__link">Work</a></li>
             </Link>
 
-            <Link to="/contact">
+            <Link to="/Portfolio_reactjs/contact">
                 <li class="nav__item"><a href="#contact" class="nav__link">Contact</a></li>
             </Link>
             </ul>
