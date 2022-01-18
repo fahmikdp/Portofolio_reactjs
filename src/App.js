@@ -13,11 +13,11 @@ function App(props) {
     <div className="App">
       <Nav />
       <switch>
-          <Route path='/' component={Home} exact />
-          <Route path='/About' component={About} />
-          <Route path='/Skill' component={Skill} />
-          <Route path='/Work' component={Work} />
-          <Route path='/contact' component={Contact} />
+          <Route path='/Portfolio_reactjs' component={Home} exact />
+          <Route path='/Portfolio_reactjs/About' component={About} />
+          <Route path='/Portfolio_reactjs/Skill' component={Skill} />
+          <Route path='/Portfolio_reactjs/Work' component={Work} />
+          <Route path='/Portfolio_reactjs/contact' component={Contact} />
       </switch>
     </div>
     </Router>
