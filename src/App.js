@@ -13,7 +13,7 @@ function App(props) {
     <div className="App">
       <Nav />
       <Switch>
-          <Route exact path='/' component={Home} />
+          <Route exact path='/Portofolio_reactjs/' component={Home} />
           <Route path='/About' component={About} />
           <Route path='/Skill' component={Skill} />
           <Route path='/Work' component={Work} />

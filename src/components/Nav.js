@@ -14,7 +14,7 @@ export default function Nav() {
         <div class="nav__menu" id="nav-menu">
             <ul class="nav__list">
 
-            <Link to="/">
+            <Link to="/Portofolio_reactjs/">
                 <li class="nav__item"><a href="#home" class="nav__link active">Home</a></li>
             </Link>
 
