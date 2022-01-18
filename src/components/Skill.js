@@ -1,5 +1,5 @@
 import React from 'react'
-import skillimg from './img/work3.jpg'
+import skillimg from '../img/work3.jpg'
 
 export default function Skill() {
     return (

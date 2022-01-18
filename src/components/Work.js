@@ -1,6 +1,6 @@
 import React from 'react'
-import jobsheetlandingpage from './img/jobsheetlandingpage.png'
-import jobsheetcrud from './img/jobsheetcrud.png'
+// import jobsheetlandingpage from '../img/jobsheetlandingpage.png'
+import jobsheetcrud from '../img/jobsheetcrud.png'
 
 export default function Work() {
     return (

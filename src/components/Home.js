@@ -1,5 +1,5 @@
 import React from 'react'
-import homepoto from './img/homepoto.png'
+import homepoto from '../img/homepoto.png'
 
 
 export default function Home() {
