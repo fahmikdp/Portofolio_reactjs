@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom';
 
 export default function Nav() {
     return (
-        <div className='Nav' data-aos="fade-down">
+        <div className='Nav'>
             {/* HEADER */}
     <header class="l-header">
       <nav class="nav bd-grid">
         <div>
-            <a href="#" class="nav__logo">Fahmi</a>
+            <a href="#" class="nav__logo">Portfolio</a>
         </div>
 
         <div class="nav__menu" id="nav-menu">
